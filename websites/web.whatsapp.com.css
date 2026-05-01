@@ -198,3 +198,9 @@ body,
 .x28tbhy.x28tbhy {
   --WDS-surface-elevated-default: var(--WDS-surface-highlight) !important;
 }
+
+/* Remove Download Whatsapp button */
+.xx42vgk.x1280gxy {
+  display: none !important;
+}
+
